@@ -46,5 +46,13 @@ This is a comprehensive web-based application designed to help students predict 
 
 ---
 
+## 📸 Screenshots
+
+| Login & Signup | Home Dashboard |
+| :---: | :---: |
+| ![Login Page](Screenshots/is1.JPG) | ![Signup Page](Screenshots/is2.JPG) |
+
+---
+
 ## 👨‍💻 Developed By
 **Zainab Mohammed**  
