@@ -48,7 +48,7 @@ This is a comprehensive web-based application designed to help students predict 
 
 ## 📸 Screenshots
 
-| Login & Signup | Home Dashboard |
+| Login  | Signup |
 | :---: | :---: |
 | ![Login Page](Screenshots/is1.JPG) | ![Signup Page](Screenshots/is2.JPG) |
 
