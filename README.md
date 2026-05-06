@@ -9,7 +9,7 @@ This is a comprehensive web-based application designed to help students predict 
 | Platform | Link |
 | :--- | :--- |
 | 🌍 **InfinityFree (Fully Functional)** | [http://zeinab.free.nf/login.php](http://zeinab.free.nf/login.php) |
-| 💻 **GitHub Pages (Preview Only)** | [https://zainab.github.io/College-Predictor/](https://zainab.github.io/College-Predictor/) |
+| 💻 **GitHub Pages (Preview Only)** | https://github.com/Zeinab-BS/College-Predictor |
 
 ---
 
