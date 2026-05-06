@@ -52,6 +52,10 @@ This is a comprehensive web-based application designed to help students predict 
 | :---: | :---: |
 | ![Login Page](Screenshots/is1.JPG) | ![Signup Page](Screenshots/is2.JPG) |
 
+| Home  | About |
+| :---: | :---: |
+| ![Home Page](Screenshots/is5.JPG) | ![About Page](Screenshots/is4.JPG) |
+
 ---
 
 ## 👨‍💻 Developed By
