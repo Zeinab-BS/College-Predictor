@@ -4,26 +4,26 @@ This is a comprehensive web-based application designed to help students predict 
 
 ---
 
-##  Live Demo
+## 🚀 Live Demo
 
 | Platform | Link |
 | :--- | :--- |
 | 🌍 **InfinityFree (Fully Functional)** | [http://zeinab.free.nf/login.php](http://zeinab.free.nf/login.php) |
-| 💻 **GitHub Pages (Preview Only)** | https://github.com/Zeinab-BS/College-Predictor |
+| 💻 **GitHub Pages (Preview Only)** | [https://zainab.github.io/College-Predictor/](https://zainab.github.io/College-Predictor/) |
 
 ---
 
-##  Features
+## ✨ Features
 
-*    **Fully Responsive Design**: Optimized for all screen sizes using Bootstrap.
-*    **Secure Authentication**: Includes dedicated Sign-up and Login systems.
-*    **Smart Prediction Logic**: Real-time college matching based on user input.
-*    **Database Management**: Integrated with MySQL for user data persistence.
-*    **Clean UI/UX**: User-friendly interface with consistent styling.
+*   📱 **Fully Responsive Design**: Optimized for all screen sizes using Bootstrap.
+*   🔐 **Secure Authentication**: Includes dedicated Sign-up and Login systems.
+*   🧠 **Smart Prediction Logic**: Real-time college matching based on user input.
+*   📂 **Database Management**: Integrated with MySQL for user data persistence.
+*   🎨 **Clean UI/UX**: User-friendly interface with consistent styling.
 
 ---
 
-##  Project Structure
+## 📂 Project Structure
 
 | File Name | Description |
 | :--- | :--- |
@@ -36,7 +36,7 @@ This is a comprehensive web-based application designed to help students predict 
 
 ---
 
-##  Technologies Used
+## 🛠️ Technologies Used
 
 *   **Backend**: PHP
 *   **Database**: MySQL
@@ -46,6 +46,5 @@ This is a comprehensive web-based application designed to help students predict 
 
 ---
 
-##  Developed By
+## 👨‍💻 Developed By
 **Zainab Mohammed**  
-
